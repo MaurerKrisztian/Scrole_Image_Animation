@@ -1,0 +1,11 @@
+body {background-color: black;}
+
+.cat{
+    position: fixed;
+    display: inline-block;
+}
+
+#big{
+    width: 800px;
+    height: 5500px;
+}
