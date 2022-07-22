@@ -22,5 +22,5 @@ function animateImages(allImageNumber, startImageIndex, pixelChange, renderFunct
 
 function renderImage(ImageNumber) {
   const imagePath = 'motion/m-' + ImageNumber + '.png';
-  document.getElementById("catpic").srcset = imagePath + ' 400w';
+  document.getElementById("catpic").srcset = imagePath + ' ';
 }

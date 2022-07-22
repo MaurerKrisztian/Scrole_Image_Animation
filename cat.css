@@ -1,11 +1,16 @@
-body {background-color: black;}
+body {
+    background-image: linear-gradient(green, yellow, red);
+    padding: 40px;
+    margin: 10%;
+}
 
 .cat{
     position: fixed;
-    display: inline-block;
+    /*display: inline-block;*/
+    float: right;
 }
 
 #big{
     width: 800px;
-    height: 5500px;
+    height: 4500px;
 }
