@@ -10,6 +10,10 @@ body {
     float: right;
 }
 
+.cat-img {
+    width: 44vh;
+}
+
 #big{
     width: 800px;
     height: 4500px;
